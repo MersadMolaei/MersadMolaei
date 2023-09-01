@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mersadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mersadev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mersad-molaei-a30017273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mersad-molaei-a30017273" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mersad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mersad-molaei-a30017273" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21671476/mersad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21671476/mersad" height="30" width="40" /></a>
 <a href="https://instagram.com/mersad.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mersad.dev" height="30" width="40" /></a>
 </p>
